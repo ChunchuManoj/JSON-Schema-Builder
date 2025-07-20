@@ -28,8 +28,8 @@ A modern, responsive web app for interactively building and previewing JSON sche
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/ChunchuManoj/JSON-Schema-Builder.git
+   cd JSON-Schema-Builder
    ```
 2. **Install dependencies:**
    ```bash
